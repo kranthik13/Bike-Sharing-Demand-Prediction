@@ -24,6 +24,7 @@ service providers and make huge profits.
 Important solution content : 
 
 1. [Modelling & Analysis Notebook](Bike-Sharing_Demand_Prediction.ipynb) : This notebook contains the full analysis & modelling parts done
+
           - NOTE : Please re-run the notebook if the plots in the notebook aren't visible (plolty plots sometimes doesn't show in git render)
 3. [Subjective Question & Answers](Subjective-Question-Answers.pdf) : Answers of the questions provided in a pdf format
 
